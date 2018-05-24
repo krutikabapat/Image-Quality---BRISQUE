@@ -1,0 +1,3 @@
+/home/kushashwa/Documents/Research/Image_Quality_Metrics/BRISQUE_CPP_Texas/build/CMakeFiles/rebuild_cache.dir
+/home/kushashwa/Documents/Research/Image_Quality_Metrics/BRISQUE_CPP_Texas/build/CMakeFiles/brisquequality.dir
+/home/kushashwa/Documents/Research/Image_Quality_Metrics/BRISQUE_CPP_Texas/build/CMakeFiles/edit_cache.dir
